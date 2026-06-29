@@ -11,7 +11,7 @@ from telegram.ext import (
     ContextTypes,
 )
 
-TOKEN = os.getenv("8857579656:AAFbVSeUSIiO03njqQqkJunPOCmMF9wX2j4")
+TOKEN = os.getenv("TOKEN = "8857579656:AAFbVSeUSIiO03njqQqkJunPOCmMF9wX2j4"")
 
 
 def accueil():
